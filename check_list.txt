@@ -1,16 +1,4 @@
-title
-Environment
-Precondition
-Inpuls
-Steps
-Exspected Result
-Actual Result
-Status
-Attachments
-Bug Link
-[A[A[A[A[A[A[A[A[A[A1.Title[B[D[D[D[D[D[D[D[B[B[B[B[A[C[C[C[C[C[C[[A[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[A[C[C[C[C[A[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[A[C[C[C[C[ments
-Bug Link
-[A[C[C[C[C[C[A[C[C[C1.Title
+1.title
 2.Environment
 3.Precondition
 4.Inpuls
